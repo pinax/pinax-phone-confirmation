@@ -14,10 +14,10 @@ setup(
     author="",
     author_email="",
     description="",
-    name="django-phoneconfirmation",
+    name="pinax-phone-confirmation",
     long_description=read("README.rst"),
     version=__import__("phoneconfirmation").__version__,
-    url="http://django-phoneconfirmation.rtfd.org/",
+    url="http://pinax-phone-confirmation.rtfd.org/",
     license="MIT",
     packages=find_packages(),
     tests_require=[
