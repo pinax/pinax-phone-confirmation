@@ -1,0 +1,2810 @@
+[
+    {
+        "pk": 1,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Afghanistan",
+            "starting_number": 9,
+            "mobile_number_regex": "",
+            "country_short": "AF",
+            "country_code": 93,
+			"country_regex": "0{0,3}93[0-9]*"
+        }
+    },
+    {
+        "pk": 2,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Albania",
+            "starting_number": 3,
+            "mobile_number_regex": "(0{0,3}35568[0-9]*|0{0,3}35569[0-9]*)",
+            "country_short": "AL",
+            "country_code": 355,
+			"country_regex": "0{0,3}355[0-9]*"
+        }
+    },
+    {
+        "pk": 3,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Algeria",
+            "starting_number": 2,
+            "mobile_number_regex": "0{0,3}21361[0-9]*",
+            "country_short": "DZ",
+            "country_code": 213,
+			"country_regex": "0{0,3}213[0-9]*"
+        }
+    },
+    {
+        "pk": 4,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "American Samoa",
+            "starting_number": 1,
+            "mobile_number_regex": "",
+            "country_short": "AS",
+            "country_code": 1684,
+			"country_regex": "0{0,3}1684[0-9]*"
+        }
+    },
+    {
+        "pk": 5,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Andorra",
+            "starting_number": 3,
+            "mobile_number_regex": "0{0,3}3763[0-9]*",
+            "country_short": "AD",
+            "country_code": 376,
+			"country_regex": "0{0,3}376[0-9]*"
+        }
+    },
+    {
+        "pk": 6,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Angola",
+            "starting_number": 2,
+            "mobile_number_regex": "0{0,3}2449[0-9]*",
+            "country_short": "AO",
+            "country_code": 244,
+			"country_regex": "0{0,3}244[0-9]*"
+        }
+    },
+    {
+        "pk": 7,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Anguilla",
+            "starting_number": 1,
+            "mobile_number_regex": "",
+            "country_short": "AI",
+            "country_code": 1264,
+			"country_regex": "0{0,3}1264[0-9]*"
+        }
+    },
+    {
+        "pk": 8,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Antarctica",
+            "starting_number": 6,
+            "mobile_number_regex": "",
+            "country_short": "AQ",
+            "country_code": 6721,
+			"country_regex": "0{0,3}6721[0-9]*"
+        }
+    },
+    {
+        "pk": 9,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Antigua and Barbuda",
+            "starting_number": 1,
+            "mobile_number_regex": "",
+            "country_short": "AG",
+            "country_code": 1268,
+			"country_regex": "0{0,3}1268[0-9]*"
+        }
+    },
+    {
+        "pk": 10,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Argentina",
+            "starting_number": 5,
+            "mobile_number_regex": "0{0,3}5415[0-9]*",
+            "country_short": "AR",
+            "country_code": 54,
+			"country_regex": "0{0,3}54[0-9]*"
+        }
+    },
+    {
+        "pk": 11,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Armenia",
+            "starting_number": 3,
+            "mobile_number_regex": "0{0,3}3749[0-9]*",
+            "country_short": "AM",
+            "country_code": 374,
+			"country_regex": "0{0,3}374[0-9]*"
+        }
+    },
+    {
+        "pk": 12,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Aruba",
+            "starting_number": 2,
+            "mobile_number_regex": "(0{0,3}29773[0-9]*|0{0,3}29774[0-9]*)",
+            "country_short": "AW",
+            "country_code": 297,
+			"country_regex": "0{0,3}297[0-9]*"
+        }
+    },
+    {
+        "pk": 13,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Ascension",
+            "starting_number": 2,
+            "mobile_number_regex": "",
+            "country_short": "AC",
+            "country_code": 247,
+			"country_regex": "0{0,3}247[0-9]*"
+        }
+    },
+    {
+        "pk": 14,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Australia",
+            "starting_number": 6,
+            "mobile_number_regex": "0{0,3}614[0-9]*",
+            "country_short": "AU",
+            "country_code": 61,
+			"country_regex": "0{0,3}61[0-9]*"
+        }
+    },
+    {
+        "pk": 15,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Austria",
+            "starting_number": 4,
+            "mobile_number_regex": "(0{0,3}43664[0-9]*|0{0,3}43660[0-9]*|0{0,3}43676[0-9]*|0{0,3}43699[0-9]*|0{0,3}43650[0-9]*|0{0,3}43680[0-9]*|0{0,3}43681[0-9]*|0{0,3}43688[0-9]*)",
+            "country_short": "AT",
+            "country_code": 43,
+			"country_regex": "0{0,3}43[0-9]*"
+        }
+    },
+    {
+        "pk": 16,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Azerbaijan",
+            "starting_number": 9,
+            "mobile_number_regex": "",
+            "country_short": "AZ",
+            "country_code": 994,
+			"country_regex": "0{0,3}994[0-9]*"
+        }
+    },
+    {
+        "pk": 17,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Bahamas",
+            "starting_number": 1,
+            "mobile_number_regex": "(0{0,3}124235[0-9]*|0{0,3}124245[0-9]*|0{0,3}124255[0-9]*)",
+            "country_short": "BS",
+            "country_code": 1242,
+			"country_regex": "0{0,3}1242[0-9]*"
+        }
+    },
+    {
+        "pk": 18,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Bahrain",
+            "starting_number": 9,
+            "mobile_number_regex": "0{0,3}9733[0-9]*",
+            "country_short": "BH",
+            "country_code": 973,
+			"country_regex": "0{0,3}973[0-9]*"
+        }
+    },
+    {
+        "pk": 19,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Bangladesh",
+            "starting_number": 8,
+            "mobile_number_regex": "",
+            "country_short": "BD",
+            "country_code": 880,
+			"country_regex": "0{0,3}880[0-9]*"
+        }
+    },
+    {
+        "pk": 20,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Barbados",
+            "starting_number": 1,
+            "mobile_number_regex": "",
+            "country_short": "BB",
+            "country_code": 1246,
+			"country_regex": "0{0,3}1246[0-9]*"
+        }
+    },
+    {
+        "pk": 21,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Belarus",
+            "starting_number": 3,
+            "mobile_number_regex": "",
+            "country_short": "BY",
+            "country_code": 375,
+			"country_regex": "0{0,3}375[0-9]*"
+        }
+    },
+    {
+        "pk": 22,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Belgium",
+            "starting_number": 3,
+            "mobile_number_regex": "0{0,3}324[0-9]{8}",
+            "country_short": "BE",
+            "country_code": 32,
+			"country_regex": "0{0,3}32[0-9]*"
+        }
+    },
+    {
+        "pk": 23,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Belize",
+            "starting_number": 5,
+            "mobile_number_regex": "",
+            "country_short": "BZ",
+            "country_code": 501,
+			"country_regex": "0{0,3}501[0-9]*"
+        }
+    },
+    {
+        "pk": 24,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Benin",
+            "starting_number": 2,
+            "mobile_number_regex": "",
+            "country_short": "BJ",
+            "country_code": 229,
+			"country_regex": "0{0,3}229[0-9]*"
+        }
+    },
+    {
+        "pk": 25,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Bermuda",
+            "starting_number": 1,
+            "mobile_number_regex": "",
+            "country_short": "BM",
+            "country_code": 1441,
+			"country_regex": "0{0,3}1441[0-9]*"
+        }
+    },
+    {
+        "pk": 26,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Bhutan",
+            "starting_number": 9,
+            "mobile_number_regex": "",
+            "country_short": "BT",
+            "country_code": 975,
+			"country_regex": "0{0,3}975[0-9]*"
+        }
+    },
+    {
+        "pk": 27,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Bolivia",
+            "starting_number": 5,
+            "mobile_number_regex": "",
+            "country_short": "BO",
+            "country_code": 591,
+			"country_regex": "0{0,3}591[0-9]*"
+        }
+    },
+    {
+        "pk": 28,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Bosnia and Herzegovina",
+            "starting_number": 3,
+            "mobile_number_regex": "",
+            "country_short": "BA",
+            "country_code": 387,
+			"country_regex": "0{0,3}387[0-9]*"
+        }
+    },
+    {
+        "pk": 29,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Botswana",
+            "starting_number": 2,
+            "mobile_number_regex": "0{0,3}2677[0-9]*",
+            "country_short": "BW",
+            "country_code": 267,
+			"country_regex": "0{0,3}267[0-9]*"
+        }
+    },
+    {
+        "pk": 30,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Brazil",
+            "starting_number": 5,
+            "mobile_number_regex": "(0{0,3}557[0-9]*|0{0,3}558[0-9]*|0{0,3}559[0-9]*)",
+            "country_short": "BR",
+            "country_code": 55,
+			"country_regex": "0{0,3}55[0-9]*"
+        }
+    },
+    {
+        "pk": 31,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Brunei",
+            "starting_number": 6,
+            "mobile_number_regex": "",
+            "country_short": "BN",
+            "country_code": 673,
+			"country_regex": "0{0,3}673[0-9]*"
+        }
+    },
+    {
+        "pk": 32,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Bulgaria",
+            "starting_number": 3,
+            "mobile_number_regex": "(0{0,3}35998[0-9]*|0{0,3}35999[0-9]*|0{0,3}35948[0-9]*|0{0,3}35988[0-9]*|0035987[0-9]*|0{0,3}35989[0-9]*)",
+            "country_short": "BG",
+            "country_code": 359,
+			"country_regex": "0{0,3}359[0-9]*"
+        }
+    },
+    {
+        "pk": 33,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Burkina Faso",
+            "starting_number": 2,
+            "mobile_number_regex": "",
+            "country_short": "BF",
+            "country_code": 226,
+			"country_regex": "0{0,3}226[0-9]*"
+        }
+    },
+    {
+        "pk": 34,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Burundi",
+            "starting_number": 2,
+            "mobile_number_regex": "(0{0,3}25729[0-9]*|0{0,3}2577[0-9]*)",
+            "country_short": "BI",
+            "country_code": 257,
+			"country_regex": "0{0,3}257[0-9]*"
+        }
+    },
+    {
+        "pk": 35,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Cambodia",
+            "starting_number": 8,
+            "mobile_number_regex": "",
+            "country_short": "KH",
+            "country_code": 855,
+			"country_regex": "0{0,3}855[0-9]*"
+        }
+    },
+    {
+        "pk": 36,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Cameroon",
+            "starting_number": 2,
+            "mobile_number_regex": "(0{0,3}2376[0-9]*|0{0,3}2377[0-9]*|0{0,3}2378[0-9]*|0{0,3}2379[0-9]*)",
+            "country_short": "CM",
+            "country_code": 237,
+			"country_regex": "0{0,3}237[0-9]*"
+        }
+    },
+    {
+        "pk": 37,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Canada",
+            "starting_number": 1,
+            "mobile_number_regex": "",
+            "country_short": "CA",
+            "country_code": 1,
+			"country_regex": "0{0,3}1[0-9]*"
+        }
+    },
+    {
+        "pk": 38,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Cape Verde",
+            "starting_number": 2,
+            "mobile_number_regex": "",
+            "country_short": "CV",
+            "country_code": 238,
+			"country_regex": "0{0,3}238[0-9]*"
+        }
+    },
+    {
+        "pk": 39,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Cayman Islands",
+            "starting_number": 1,
+            "mobile_number_regex": "",
+            "country_short": "KY",
+            "country_code": 1345,
+			"country_regex": "0{0,3}1345[0-9]*"
+        }
+    },
+    {
+        "pk": 40,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Central African Republic",
+            "starting_number": 2,
+            "mobile_number_regex": "",
+            "country_short": "CF",
+            "country_code": 236,
+			"country_regex": "0{0,3}236[0-9]*"
+        }
+    },
+    {
+        "pk": 41,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Chad",
+            "starting_number": 2,
+            "mobile_number_regex": "",
+            "country_short": "TD",
+            "country_code": 235,
+			"country_regex": "0{0,3}235[0-9]*"
+        }
+    },
+    {
+        "pk": 42,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Chile",
+            "starting_number": 5,
+            "mobile_number_regex": "(0{0,3}568[0-9]*|0{0,3}569[0-9]*)",
+            "country_short": "CL",
+            "country_code": 56,
+			"country_regex": "0{0,3}56[0-9]*"
+        }
+    },
+    {
+        "pk": 43,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "China",
+            "starting_number": 8,
+            "mobile_number_regex": "",
+            "country_short": "CN",
+            "country_code": 86,
+			"country_regex": "0{0,3}86[0-9]*"
+        }
+    },
+    {
+        "pk": 44,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Christmas Island",
+            "starting_number": 6,
+            "mobile_number_regex": "",
+            "country_short": "CX",
+            "country_code": 618,
+			"country_regex": "0{0,3}618[0-9]*"
+        }
+    },
+    {
+        "pk": 45,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Cocos (Keeling) Islands",
+            "starting_number": 6,
+            "mobile_number_regex": "",
+            "country_short": "CC",
+            "country_code": 618,
+			"country_regex": "0{0,3}618[0-9]*"
+        }
+    },
+    {
+        "pk": 46,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Colombia",
+            "starting_number": 5,
+            "mobile_number_regex": "0{0,3}573[0-9]*",
+            "country_short": "CO",
+            "country_code": 57,
+			"country_regex": "0{0,3}57[0-9]*"
+        }
+    },
+    {
+        "pk": 47,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Comoros",
+            "starting_number": 2,
+            "mobile_number_regex": "",
+            "country_short": "KM",
+            "country_code": 269,
+			"country_regex": "0{0,3}269[0-9]*"
+        }
+    },
+    {
+        "pk": 232,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Congo",
+            "starting_number": 2,
+            "mobile_number_regex": "",
+            "country_short": "CG",
+            "country_code": 242,
+            "country_regex": "(0{0,3}242[0-9]*)"
+        }
+    },
+    {
+        "pk": 48,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Congo",
+            "starting_number": 2,
+            "mobile_number_regex": "",
+            "country_short": "CG",
+            "country_code": 243,
+            "country_regex": "(0{0,3}243[0-9]*)"
+        }
+    },
+    {
+        "pk": 49,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Cook Islands",
+            "starting_number": 6,
+            "mobile_number_regex": "",
+            "country_short": "CK",
+            "country_code": 682,
+			"country_regex": "0{0,3}682[0-9]*"
+        }
+    },
+    {
+        "pk": 50,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Costa Rica",
+            "starting_number": 5,
+            "mobile_number_regex": "",
+            "country_short": "CR",
+            "country_code": 506,
+			"country_regex": "0{0,3}506[0-9]*"
+        }
+    },
+    {
+        "pk": 51,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "C\u00f4te d'Ivoire",
+            "starting_number": 2,
+            "mobile_number_regex": "",
+            "country_short": "CI",
+            "country_code": 225,
+			"country_regex": "0{0,3}225[0-9]*"
+        }
+    },
+    {
+        "pk": 52,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Croatia",
+            "starting_number": 3,
+            "mobile_number_regex": "0{0,3}3859[0-9]*",
+            "country_short": "HR",
+            "country_code": 385,
+			"country_regex": "0{0,3}385[0-9]*"
+        }
+    },
+    {
+        "pk": 53,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Cuba",
+            "starting_number": 5,
+            "mobile_number_regex": "",
+            "country_short": "CU",
+            "country_code": 53,
+			"country_regex": "0{0,3}53[0-9]*"
+        }
+    },
+    {
+        "pk": 54,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Cyprus",
+            "starting_number": 3,
+            "mobile_number_regex": "(0{0,3}35799[0-9]*|*35796[0-9]*|0{0,3}35797[0-9]*)",
+            "country_short": "CY",
+            "country_code": 357,
+			"country_regex": "0{0,3}357[0-9]*"
+        }
+    },
+    {
+        "pk": 55,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Czech Republic",
+            "starting_number": 4,
+            "mobile_number_regex": "(0{0,3}4206[0-9]*|0{0,3}4207[0-9]*)",
+            "country_short": "CZ",
+            "country_code": 420,
+			"country_regex": "0{0,3}420[0-9]*"
+        }
+    },
+    {
+        "pk": 56,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Denmark",
+            "starting_number": 4,
+            "mobile_number_regex": "(0{0,3}4530[0-9]*|0{0,3}4540[0-9]*)",
+            "country_short": "DK",
+            "country_code": 45,
+			"country_regex": "0{0,3}45[0-9]*"
+        }
+    },
+    {
+        "pk": 57,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Diego Garcia",
+            "starting_number": 2,
+            "mobile_number_regex": "",
+            "country_short": "DG",
+            "country_code": 246,
+			"country_regex": "0{0,3}246[0-9]*"
+        }
+    },
+    {
+        "pk": 58,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Djibouti",
+            "starting_number": 2,
+            "mobile_number_regex": "",
+            "country_short": "DJ",
+            "country_code": 253,
+			"country_regex": "0{0,3}253[0-9]*"
+        }
+    },
+    {
+        "pk": 59,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Dominica",
+            "starting_number": 1,
+            "mobile_number_regex": "",
+            "country_short": "DM",
+            "country_code": 1767,
+			"country_regex": "0{0,3}1767[0-9]*"
+        }
+    },
+    {
+        "pk": 60,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Dominican Republic",
+            "starting_number": 1,
+            "mobile_number_regex": "",
+            "country_short": "DO",
+            "country_code": 1809,
+            "country_regex": "(0{0,3}1809[0-9]*)"
+        }
+    },
+    {
+        "pk": 233,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Dominican Republic",
+            "starting_number": 1,
+            "mobile_number_regex": "",
+            "country_short": "DO",
+            "country_code": 1829,
+            "country_regex": "(0{0,3}1829[0-9]*)"
+        }
+    },
+    {
+        "pk": 61,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "East Timor",
+            "starting_number": 6,
+            "mobile_number_regex": "",
+            "country_short": "TL",
+            "country_code": 670,
+			"country_regex": "0{0,3}670[0-9]*"
+        }
+    },
+    {
+        "pk": 62,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Ecuador",
+            "starting_number": 5,
+            "mobile_number_regex": "(0{0,3}5939[0-9]*|0{0,3}5938[0-9]*)",
+            "country_short": "EC",
+            "country_code": 593,
+			"country_regex": "0{0,3}593[0-9]*"
+        }
+    },
+    {
+        "pk": 63,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Egypt",
+            "starting_number": 2,
+            "mobile_number_regex": "",
+            "country_short": "EG",
+            "country_code": 20,
+			"country_regex": "0{0,3}20[0-9]*"
+        }
+    },
+    {
+        "pk": 64,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "El Salvador",
+            "starting_number": 5,
+            "mobile_number_regex": "",
+            "country_short": "SV",
+            "country_code": 503,
+			"country_regex": "0{0,3}503[0-9]*"
+        }
+    },
+    {
+        "pk": 65,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Equatorial Guinea",
+            "starting_number": 2,
+            "mobile_number_regex": "",
+            "country_short": "GQ",
+            "country_code": 240,
+			"country_regex": "0{0,3}240[0-9]*"
+        }
+    },
+    {
+        "pk": 66,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Eritrea",
+            "starting_number": 2,
+            "mobile_number_regex": "",
+            "country_short": "ER",
+            "country_code": 291,
+			"country_regex": "0{0,3}291[0-9]*"
+        }
+    },
+    {
+        "pk": 67,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Estonia",
+            "starting_number": 3,
+            "mobile_number_regex": "0{0,3}3725[0-9]*",
+            "country_short": "EE",
+            "country_code": 372,
+			"country_regex": "0{0,3}372[0-9]*"
+        }
+    },
+    {
+        "pk": 68,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Ethiopia",
+            "starting_number": 2,
+            "mobile_number_regex": "",
+            "country_short": "ET",
+            "country_code": 251,
+			"country_regex": "0{0,3}251[0-9]*"
+        }
+    },
+    {
+        "pk": 69,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Faeroe Islands",
+            "starting_number": 5,
+            "mobile_number_regex": "",
+            "country_short": "FO",
+            "country_code": 500,
+			"country_regex": "0{0,3}500[0-9]*"
+        }
+    },
+    {
+        "pk": 70,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Falkland Islands",
+            "starting_number": 2,
+            "mobile_number_regex": "",
+            "country_short": "FK",
+            "country_code": 298,
+			"country_regex": "0{0,3}298[0-9]*"
+        }
+    },
+    {
+        "pk": 71,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Fiji",
+            "starting_number": 6,
+            "mobile_number_regex": "",
+            "country_short": "FJ",
+            "country_code": 679,
+			"country_regex": "0{0,3}679[0-9]*"
+        }
+    },
+    {
+        "pk": 72,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Finland",
+            "starting_number": 3,
+            "mobile_number_regex": "(0{0,3}3584[0-9]*|0{0,3}35850[0-9]*)",
+            "country_short": "FI",
+            "country_code": 358,
+			"country_regex": "0{0,3}358[0-9]*"
+        }
+    },
+    {
+        "pk": 73,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "France",
+            "starting_number": 3,
+            "mobile_number_regex": "(0{0,3}336[0-9]*|0{0,3}337[0-9]*)",
+            "country_short": "FR",
+            "country_code": 33,
+			"country_regex": "0{0,3}33[0-9]*"
+        }
+    },
+    {
+        "pk": 74,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "French Guiana",
+            "starting_number": 5,
+            "mobile_number_regex": "(0{0,3}594694[0-9]*|[0-9]*)",
+            "country_short": "GF",
+            "country_code": 594,
+			"country_regex": "0{0,3}594[0-9]*"
+        }
+    },
+    {
+        "pk": 75,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "French Polynesia",
+            "starting_number": 6,
+            "mobile_number_regex": "",
+            "country_short": "PF",
+            "country_code": 689,
+			"country_regex": "0{0,3}689[0-9]*"
+        }
+    },
+    {
+        "pk": 76,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Gabon",
+            "starting_number": 2,
+            "mobile_number_regex": "",
+            "country_short": "GA",
+            "country_code": 241,
+			"country_regex": "0{0,3}241[0-9]*"
+        }
+    },
+    {
+        "pk": 77,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Gambia",
+            "starting_number": 2,
+            "mobile_number_regex": "",
+            "country_short": "GM",
+            "country_code": 220,
+			"country_regex": "0{0,3}220[0-9]*"
+        }
+    },
+    {
+        "pk": 78,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Georgia",
+            "starting_number": 9,
+            "mobile_number_regex": "(0{0,3}9957[0-9]*|0{0,3}9959[0-9]*)",
+            "country_short": "GE",
+            "country_code": 995,
+			"country_regex": "0{0,3}995[0-9]*"
+        }
+    },
+    {
+        "pk": 79,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Germany",
+            "starting_number": 4,
+            "mobile_number_regex": "(0{0,3}491[0-9]*|0{0,3}49700[0-9]*)",
+            "country_short": "DE",
+            "country_code": 49,
+			"country_regex": "0{0,3}49[0-9]*"
+        }
+    },
+    {
+        "pk": 80,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Ghana",
+            "starting_number": 2,
+            "mobile_number_regex": "",
+            "country_short": "GH",
+            "country_code": 233,
+			"country_regex": "0{0,3}233[0-9]*"
+        }
+    },
+    {
+        "pk": 81,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Gibraltar",
+            "starting_number": 3,
+            "mobile_number_regex": "",
+            "country_short": "GI",
+            "country_code": 350,
+			"country_regex": "0{0,3}350[0-9]*"
+        }
+    },
+    {
+        "pk": 82,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Greece",
+            "starting_number": 3,
+            "mobile_number_regex": "0{0,3}3069[0-9]*",
+            "country_short": "GR",
+            "country_code": 30,
+			"country_regex": "0{0,3}30[0-9]*"
+        }
+    },
+    {
+        "pk": 83,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Greenland",
+            "starting_number": 2,
+            "mobile_number_regex": "",
+            "country_short": "GL",
+            "country_code": 299,
+			"country_regex": "0{0,3}299[0-9]*"
+        }
+    },
+    {
+        "pk": 84,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Grenada",
+            "starting_number": 1,
+            "mobile_number_regex": "",
+            "country_short": "GD",
+            "country_code": 1473,
+			"country_regex": "0{0,3}1473[0-9]*"
+        }
+    },
+    {
+        "pk": 85,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Guadeloupe",
+            "starting_number": 5,
+            "mobile_number_regex": "0{0,3}5906[0-9]*",
+            "country_short": "GP",
+            "country_code": 590,
+			"country_regex": "0{0,3}590[0-9]*"
+        }
+    },
+    {
+        "pk": 86,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Guam",
+            "starting_number": 1,
+            "mobile_number_regex": "",
+            "country_short": "GU",
+            "country_code": 1671,
+			"country_regex": "0{0,3}1671[0-9]*"
+        }
+    },
+    {
+        "pk": 87,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Guatemala",
+            "starting_number": 5,
+            "mobile_number_regex": "",
+            "country_short": "GT",
+            "country_code": 502,
+			"country_regex": "0{0,3}502[0-9]*"
+        }
+    },
+    {
+        "pk": 88,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Guinea",
+            "starting_number": 2,
+            "mobile_number_regex": "",
+            "country_short": "GN",
+            "country_code": 224,
+			"country_regex": "0{0,3}224[0-9]*"
+        }
+    },
+    {
+        "pk": 89,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Guinea-Bissau",
+            "starting_number": 2,
+            "mobile_number_regex": "",
+            "country_short": "GW",
+            "country_code": 245,
+			"country_regex": "0{0,3}245[0-9]*"
+        }
+    },
+    {
+        "pk": 90,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Guyana",
+            "starting_number": 5,
+            "mobile_number_regex": "",
+            "country_short": "GY",
+            "country_code": 592,
+			"country_regex": "0{0,3}592[0-9]*"
+        }
+    },
+    {
+        "pk": 91,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Haiti",
+            "starting_number": 5,
+            "mobile_number_regex": "",
+            "country_short": "HT",
+            "country_code": 509,
+			"country_regex": "0{0,3}509[0-9]*"
+        }
+    },
+    {
+        "pk": 92,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Honduras",
+            "starting_number": 5,
+            "mobile_number_regex": "",
+            "country_short": "HN",
+            "country_code": 504,
+			"country_regex": "0{0,3}504[0-9]*"
+        }
+    },
+    {
+        "pk": 93,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Hong Kong",
+            "starting_number": 8,
+            "mobile_number_regex": "",
+            "country_short": "HK",
+            "country_code": 852,
+			"country_regex": "0{0,3}852[0-9]*"
+        }
+    },
+    {
+        "pk": 94,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Hungary",
+            "starting_number": 3,
+            "mobile_number_regex": "(0{0,3}3620[0-9]*|0{0,3}3670[0-9]*|0{0,3}3630[0-9]*)",
+            "country_short": "HU",
+            "country_code": 36,
+			"country_regex": "0{0,3}36[0-9]*"
+        }
+    },
+    {
+        "pk": 95,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Iceland",
+            "starting_number": 3,
+            "mobile_number_regex": "(0{0,3}3543[0-9]*|0{0,3}3546[0-9]*|0{0,3}357[0-9]*|0{0,3}358[0-9]*)",
+            "country_short": "IS",
+            "country_code": 354,
+			"country_regex": "0{0,3}354[0-9]*"
+        }
+    },
+    {
+        "pk": 96,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "India",
+            "starting_number": 9,
+            "mobile_number_regex": "0{0,3}919[0-9]*",
+            "country_short": "IN",
+            "country_code": 91,
+			"country_regex": "0{0,3}91[0-9]*"
+        }
+    },
+    {
+        "pk": 97,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Indonesia",
+            "starting_number": 6,
+            "mobile_number_regex": "",
+            "country_short": "ID",
+            "country_code": 62,
+			"country_regex": "0{0,3}62[0-9]*"
+        }
+    },
+    {
+        "pk": 98,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Iran",
+            "starting_number": 9,
+            "mobile_number_regex": "",
+            "country_short": "IR",
+            "country_code": 98,
+			"country_regex": "0{0,3}98[0-9]*"
+        }
+    },
+    {
+        "pk": 99,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Iraq",
+            "starting_number": 9,
+            "mobile_number_regex": "",
+            "country_short": "IQ",
+            "country_code": 964,
+			"country_regex": "0{0,3}964[0-9]*"
+        }
+    },
+    {
+        "pk": 100,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Ireland",
+            "starting_number": 3,
+            "mobile_number_regex": "0{0,3}3538[0-9]*",
+            "country_short": "IE",
+            "country_code": 353,
+			"country_regex": "0{0,3}353[0-9]*"
+        }
+    },
+    {
+        "pk": 101,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Israel",
+            "starting_number": 9,
+            "mobile_number_regex": "0{0,3}9725[0-9]*",
+            "country_short": "IL",
+            "country_code": 972,
+			"country_regex": "0{0,3}972[0-9]*"
+        }
+    },
+    {
+        "pk": 102,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Italy",
+            "starting_number": 3,
+            "mobile_number_regex": "0{0,3}393[0-9]*",
+            "country_short": "IT",
+            "country_code": 39,
+			"country_regex": "0{0,3}39[0-9]*"
+        }
+    },
+    {
+        "pk": 103,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Jamaica",
+            "starting_number": 1,
+            "mobile_number_regex": "",
+            "country_short": "JM",
+            "country_code": 1876,
+			"country_regex": "0{0,3}1876[0-9]*"
+        }
+    },
+    {
+        "pk": 104,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Japan",
+            "starting_number": 8,
+            "mobile_number_regex": "(0{0,3}810[0-9]*|0{0,3}8170[0-9]*|0{0,3}8180[0-9]*|0{0,3}8190[0-9]*)",
+            "country_short": "JP",
+            "country_code": 81,
+			"country_regex": "0{0,3}81[0-9]*"
+        }
+    },
+    {
+        "pk": 105,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Jordan",
+            "starting_number": 9,
+            "mobile_number_regex": "0{0,3}9627[0-9]*",
+            "country_short": "JO",
+            "country_code": 962,
+			"country_regex": "0{0,3}962[0-9]*"
+        }
+    },
+    {
+        "pk": 106,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Kazakhstan",
+            "starting_number": 7,
+            "mobile_number_regex": "",
+            "country_short": "KZ",
+            "country_code": 77,
+			"country_regex": "0{0,3}77[0-9]*"
+        }
+    },
+    {
+        "pk": 107,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Kenya",
+            "starting_number": 2,
+            "mobile_number_regex": "",
+            "country_short": "KE",
+            "country_code": 254,
+			"country_regex": "0{0,3}254[0-9]*"
+        }
+    },
+    {
+        "pk": 108,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Kiribati",
+            "starting_number": 6,
+            "mobile_number_regex": "",
+            "country_short": "KI",
+            "country_code": 686,
+			"country_regex": "0{0,3}686[0-9]*"
+        }
+    },
+    {
+        "pk": 109,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Korea (North)",
+            "starting_number": 8,
+            "mobile_number_regex": "",
+            "country_short": "KP",
+            "country_code": 850,
+			"country_regex": "0{0,3}850[0-9]*"
+        }
+    },
+    {
+        "pk": 110,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Korea (South)",
+            "starting_number": 8,
+            "mobile_number_regex": "0{0,3}821[0-9]*",
+            "country_short": "KR",
+            "country_code": 82,
+			"country_regex": "0{0,3}82[0-9]*"
+        }
+    },
+    {
+        "pk": 111,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Kuwait",
+            "starting_number": 9,
+            "mobile_number_regex": "",
+            "country_short": "KW",
+            "country_code": 965,
+			"country_regex": "0{0,3}965[0-9]*"
+        }
+    },
+    {
+        "pk": 112,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Kyrgyzstan",
+            "starting_number": 9,
+            "mobile_number_regex": "",
+            "country_short": "KG",
+            "country_code": 996,
+			"country_regex": "0{0,3}996[0-9]*"
+        }
+    },
+    {
+        "pk": 113,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Laos",
+            "starting_number": 8,
+            "mobile_number_regex": "",
+            "country_short": "LA",
+            "country_code": 856,
+			"country_regex": "0{0,3}856[0-9]*"
+        }
+    },
+    {
+        "pk": 114,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Latvia",
+            "starting_number": 3,
+            "mobile_number_regex": "0{0,3}3712[0-9]*",
+            "country_short": "LV",
+            "country_code": 371,
+			"country_regex": "0{0,3}371[0-9]*"
+        }
+    },
+    {
+        "pk": 115,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Lebanon",
+            "starting_number": 9,
+            "mobile_number_regex": "(0{0,3}96170[0-9]*|0{0,3}96171[0-9]*|0{0,3}9613[0-9]*)",
+            "country_short": "LB",
+            "country_code": 961,
+			"country_regex": "0{0,3}961[0-9]*"
+        }
+    },
+    {
+        "pk": 116,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Lesotho",
+            "starting_number": 2,
+            "mobile_number_regex": "",
+            "country_short": "LS",
+            "country_code": 266,
+			"country_regex": "0{0,3}266[0-9]*"
+        }
+    },
+    {
+        "pk": 117,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Liberia",
+            "starting_number": 2,
+            "mobile_number_regex": "",
+            "country_short": "LR",
+            "country_code": 231,
+			"country_regex": "0{0,3}231[0-9]*"
+        }
+    },
+    {
+        "pk": 118,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Libya",
+            "starting_number": 2,
+            "mobile_number_regex": "",
+            "country_short": "LY",
+            "country_code": 218,
+			"country_regex": "0{0,3}218[0-9]*"
+        }
+    },
+    {
+        "pk": 119,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Liechtenstein",
+            "starting_number": 4,
+            "mobile_number_regex": "(0{0,3}4236[0-9]*|0{0,3}4237[0-9]*)",
+            "country_short": "LI",
+            "country_code": 423,
+			"country_regex": "0{0,3}423[0-9]*"
+        }
+    },
+    {
+        "pk": 120,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Lithuania",
+            "starting_number": 3,
+            "mobile_number_regex": "0{0,3}3706[0-9]*",
+            "country_short": "LT",
+            "country_code": 370,
+			"country_regex": "0{0,3}370[0-9]*"
+        }
+    },
+    {
+        "pk": 121,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Luxembourg ",
+            "starting_number": 3,
+            "mobile_number_regex": "0{0,3}3526[0-9]*",
+            "country_short": "LU",
+            "country_code": 352,
+			"country_regex": "0{0,3}352[0-9]*"
+        }
+    },
+    {
+        "pk": 122,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Macau",
+            "starting_number": 8,
+            "mobile_number_regex": "0{0,3}8536[0-9]*",
+            "country_short": "MO",
+            "country_code": 853,
+			"country_regex": "0{0,3}853[0-9]*"
+        }
+    },
+    {
+        "pk": 123,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Macedonia",
+            "starting_number": 3,
+            "mobile_number_regex": "0{0,3}3897[0-9]*",
+            "country_short": "MK",
+            "country_code": 389,
+			"country_regex": "0{0,3}389[0-9]*"
+        }
+    },
+    {
+        "pk": 124,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Madagascar",
+            "starting_number": 2,
+            "mobile_number_regex": "",
+            "country_short": "MG",
+            "country_code": 261,
+			"country_regex": "0{0,3}261[0-9]*"
+        }
+    },
+    {
+        "pk": 125,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Malawi",
+            "starting_number": 2,
+            "mobile_number_regex": "(0{0,3}2653[0-9]*|0{0,3}2654[0-9]*|0{0,3}2655[0-9]*|0{0,3}2657[0-9]*|0{0,3}2658[0-9]*|0{0,3}2659[0-9]*)",
+            "country_short": "MW",
+            "country_code": 265,
+			"country_regex": "0{0,3}265[0-9]*"
+        }
+    },
+    {
+        "pk": 126,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Malaysia",
+            "starting_number": 6,
+            "mobile_number_regex": "0{0,3}601[0-9]*",
+            "country_short": "MY",
+            "country_code": 60,
+			"country_regex": "0{0,3}60[0-9]*"
+        }
+    },
+    {
+        "pk": 127,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Maldives",
+            "starting_number": 9,
+            "mobile_number_regex": "(0{0,3}96096[0-9]*|0{0,3}96097[0-9]*|0{0,3}960980{0,3}96099[0-9]*)",
+            "country_short": "MV",
+            "country_code": 960,
+			"country_regex": "0{0,3}960[0-9]*"
+        }
+    },
+    {
+        "pk": 128,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Mali",
+            "starting_number": 2,
+            "mobile_number_regex": "",
+            "country_short": "ML",
+            "country_code": 223,
+			"country_regex": "0{0,3}223[0-9]*"
+        }
+    },
+    {
+        "pk": 129,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Malta",
+            "starting_number": 3,
+            "mobile_number_regex": "(0{0,3}3567[0-9]*|0{0,3}3569[0-9]*)",
+            "country_short": "MT",
+            "country_code": 356,
+			"country_regex": "0{0,3}356[0-9]*"
+        }
+    },
+    {
+        "pk": 130,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Marshall Islands",
+            "starting_number": 6,
+            "mobile_number_regex": "",
+            "country_short": "MH",
+            "country_code": 692,
+			"country_regex": "0{0,3}692[0-9]*"
+        }
+    },
+    {
+        "pk": 131,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Martinique",
+            "starting_number": 5,
+            "mobile_number_regex": "0{0,3}5966[0-9]*",
+            "country_short": "MQ",
+            "country_code": 596,
+			"country_regex": "0{0,3}596[0-9]*"
+        }
+    },
+    {
+        "pk": 132,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Mauritania",
+            "starting_number": 2,
+            "mobile_number_regex": "",
+            "country_short": "MR",
+            "country_code": 222,
+			"country_regex": "0{0,3}222[0-9]*"
+        }
+    },
+    {
+        "pk": 133,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Mauritius",
+            "starting_number": 2,
+            "mobile_number_regex": "",
+            "country_short": "MU",
+            "country_code": 230,
+			"country_regex": "0{0,3}230[0-9]*"
+        }
+    },
+    {
+        "pk": 134,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Mayotte",
+            "starting_number": 5,
+            "mobile_number_regex": "0{0,3}521[0-9]*",
+            "country_short": "YT",
+            "country_code": 52,
+			"country_regex": "0{0,3}52[0-9]*"
+        }
+    },
+    {
+        "pk": 135,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Mexico",
+            "starting_number": 6,
+            "mobile_number_regex": "",
+            "country_short": "MX",
+            "country_code": 691,
+			"country_regex": "0{0,3}691[0-9]*"
+        }
+    },
+    {
+        "pk": 136,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Micronesia",
+            "starting_number": 3,
+            "mobile_number_regex": "",
+            "country_short": "FM",
+            "country_code": 373,
+			"country_regex": "0{0,3}373[0-9]*"
+        }
+    },
+    {
+        "pk": 137,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Moldova",
+            "starting_number": 3,
+            "mobile_number_regex": "(0{0,3}3774[0-9]*|0{0,3}3776[0-9]*)",
+            "country_short": "MD",
+            "country_code": 377,
+			"country_regex": "0{0,3}377[0-9]*"
+        }
+    },
+    {
+        "pk": 138,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Monaco",
+            "starting_number": 9,
+            "mobile_number_regex": "",
+            "country_short": "MC",
+            "country_code": 976,
+			"country_regex": "0{0,3}976[0-9]*"
+        }
+    },
+    {
+        "pk": 139,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Mongolia",
+            "starting_number": 3,
+            "mobile_number_regex": "",
+            "country_short": "MN",
+            "country_code": 382,
+			"country_regex": "0{0,3}382[0-9]*"
+        }
+    },
+    {
+        "pk": 140,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Montserrat",
+            "starting_number": 1,
+            "mobile_number_regex": "(0{0,3}1664349[0-9]*|0{0,3}1664492[0-9]*|0{0,3}1664493[0-9]*|0{0,3}1664495[0-9]*|0{0,3}1664496[0-9]*)",
+            "country_short": "MS",
+            "country_code": 1664,
+			"country_regex": "0{0,3}1664[0-9]*"
+        }
+    },
+    {
+        "pk": 141,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Morocco",
+            "starting_number": 2,
+            "mobile_number_regex": "0{0,3}2126[0-9]*",
+            "country_short": "MA",
+            "country_code": 212,
+			"country_regex": "0{0,3}212[0-9]*"
+        }
+    },
+    {
+        "pk": 142,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Mozambique",
+            "starting_number": 2,
+            "mobile_number_regex": "0{0,3}2588[0-9]*",
+            "country_short": "MZ",
+            "country_code": 258,
+			"country_regex": "0{0,3}258[0-9]*"
+        }
+    },
+    {
+        "pk": 143,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Myanmar",
+            "starting_number": 9,
+            "mobile_number_regex": "",
+            "country_short": "MM",
+            "country_code": 95,
+			"country_regex": "0{0,3}95[0-9]*"
+        }
+    },
+    {
+        "pk": 144,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Namibia",
+            "starting_number": 2,
+            "mobile_number_regex": "0{0,3}2648[0-9]*",
+            "country_short": "NA",
+            "country_code": 264,
+			"country_regex": "0{0,3}264[0-9]*"
+        }
+    },
+    {
+        "pk": 145,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Nauru",
+            "starting_number": 6,
+            "mobile_number_regex": "",
+            "country_short": "NR",
+            "country_code": 674,
+			"country_regex": "0{0,3}674[0-9]*"
+        }
+    },
+    {
+        "pk": 146,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Nepal",
+            "starting_number": 9,
+            "mobile_number_regex": "",
+            "country_short": "NP",
+            "country_code": 977,
+			"country_regex": "0{0,3}977[0-9]*"
+        }
+    },
+    {
+        "pk": 147,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Netherlands",
+            "starting_number": 3,
+            "mobile_number_regex": "0{0,3}316[0-9]*",
+            "country_short": "NL",
+            "country_code": 31,
+			"country_regex": "0{0,3}31[0-9]*"
+        }
+    },
+    {
+        "pk": 148,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Netherlands Antilles",
+            "starting_number": 5,
+            "mobile_number_regex": "",
+            "country_short": "AN",
+            "country_code": 599,
+			"country_regex": "0{0,3}599[0-9]*"
+        }
+    },
+    {
+        "pk": 149,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "New Caledonia",
+            "starting_number": 6,
+            "mobile_number_regex": "",
+            "country_short": "NC",
+            "country_code": 687,
+			"country_regex": "0{0,3}687[0-9]*"
+        }
+    },
+    {
+        "pk": 150,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "New Zealand",
+            "starting_number": 6,
+            "mobile_number_regex": "0{0,3}642[0-9]*",
+            "country_short": "NZ",
+            "country_code": 64,
+			"country_regex": "0{0,3}64[0-9]*"
+        }
+    },
+    {
+        "pk": 151,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Nicaragua",
+            "starting_number": 5,
+            "mobile_number_regex": "",
+            "country_short": "NI",
+            "country_code": 505,
+			"country_regex": "0{0,3}505[0-9]*"
+        }
+    },
+    {
+        "pk": 152,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Niger",
+            "starting_number": 2,
+            "mobile_number_regex": "",
+            "country_short": "NE",
+            "country_code": 227,
+			"country_regex": "0{0,3}227[0-9]*"
+        }
+    },
+    {
+        "pk": 153,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Nigeria",
+            "starting_number": 2,
+            "mobile_number_regex": "",
+            "country_short": "NG",
+            "country_code": 234,
+			"country_regex": "0{0,3}234[0-9]*"
+        }
+    },
+    {
+        "pk": 154,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Niue",
+            "starting_number": 6,
+            "mobile_number_regex": "",
+            "country_short": "NU",
+            "country_code": 683,
+			"country_regex": "0{0,3}683[0-9]*"
+        }
+    },
+    {
+        "pk": 155,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Norfolk Island",
+            "starting_number": 6,
+            "mobile_number_regex": "",
+            "country_short": "NF",
+            "country_code": 6723,
+			"country_regex": "0{0,3}6723[0-9]*"
+        }
+    },
+    {
+        "pk": 156,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Northern Marianas",
+            "starting_number": 1,
+            "mobile_number_regex": "",
+            "country_short": "MP",
+            "country_code": 1670,
+			"country_regex": "0{0,3}1670[0-9]*"
+        }
+    },
+    {
+        "pk": 157,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Norway",
+            "starting_number": 4,
+            "mobile_number_regex": "(0{0,3}474[0-9]*|0{0,3}479[0-9]*)",
+            "country_short": "NO",
+            "country_code": 47,
+			"country_regex": "0{0,3}47[0-9]*"
+        }
+    },
+    {
+        "pk": 158,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Oman",
+            "starting_number": 9,
+            "mobile_number_regex": "0{0,3}9689[0-9]*",
+            "country_short": "OM",
+            "country_code": 968,
+			"country_regex": "0{0,3}968[0-9]*"
+        }
+    },
+    {
+        "pk": 159,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Pakistan",
+            "starting_number": 9,
+            "mobile_number_regex": "0{0,3}923[0-9]*",
+            "country_short": "PK",
+            "country_code": 92,
+			"country_regex": "0{0,3}92[0-9]*"
+        }
+    },
+    {
+        "pk": 160,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Palau",
+            "starting_number": 6,
+            "mobile_number_regex": "",
+            "country_short": "PW",
+            "country_code": 680,
+			"country_regex": "0{0,3}680[0-9]*"
+        }
+    },
+    {
+        "pk": 161,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Palestinian Settlements",
+            "starting_number": 9,
+            "mobile_number_regex": "",
+            "country_short": "PS",
+            "country_code": 970,
+			"country_regex": "0{0,3}970[0-9]*"
+        }
+    },
+    {
+        "pk": 162,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Panama",
+            "starting_number": 5,
+            "mobile_number_regex": "(0{0,3}507648[0-9]*|0{0,3}507649[0-9]*|0{0,3}67565[0-9]*|0{0,3}67566[0-9]*)",
+            "country_short": "PA",
+            "country_code": 507,
+			"country_regex": "0{0,3}507[0-9]*"
+        }
+    },
+    {
+        "pk": 163,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Papua New Guinea",
+            "starting_number": 6,
+            "mobile_number_regex": "",
+            "country_short": "PG",
+            "country_code": 675,
+			"country_regex": "0{0,3}675[0-9]*"
+        }
+    },
+    {
+        "pk": 164,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Paraguay",
+            "starting_number": 5,
+            "mobile_number_regex": "0{0,3}5959[0-9]*",
+            "country_short": "PY",
+            "country_code": 595,
+			"country_regex": "0{0,3}595[0-9]*"
+        }
+    },
+    {
+        "pk": 165,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Peru",
+            "starting_number": 5,
+            "mobile_number_regex": "(0{0,3}51941[0-9]*|0{0,3}5195[0-9]*|0{0,3}5195[0-9]*|0{0,3}5196[0-9]*|0{0,3}5197[0-9]*|0{0,3}5198[0-9]*|0{0,3}51949[0-9]*|0{0,3}5199[0-9]*|0{0,3}51942[0-9]*)",
+            "country_short": "PE",
+            "country_code": 51,
+			"country_regex": "0{0,3}51[0-9]*"
+        }
+    },
+    {
+        "pk": 166,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Philippines",
+            "starting_number": 6,
+            "mobile_number_regex": "",
+            "country_short": "PH",
+            "country_code": 63,
+			"country_regex": "0{0,3}63[0-9]*"
+        }
+    },
+    {
+        "pk": 167,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Poland",
+            "starting_number": 4,
+            "mobile_number_regex": "(0{0,3}4850[0-9]*| 0{0,3}4851[0-9]*|0{0,3}4860[0-9]*|0{0,3}4866[0-9]*|0{0,3}4869[0-9]*|0{0,3}4872[0-9]*|0{0,3}4878[0-9]*|0{0,3}4879[0-9]*)",
+            "country_short": "PL",
+            "country_code": 48,
+			"country_regex": "0{0,3}48[0-9]*"
+        }
+    },
+    {
+        "pk": 168,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Portugal",
+            "starting_number": 3,
+            "mobile_number_regex": "0{0,3}3511[0-9]*",
+            "country_short": "PT",
+            "country_code": 351,
+			"country_regex": "0{0,3}351[0-9]*"
+        }
+    },
+    {
+        "pk": 169,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Puerto Rico",
+            "starting_number": 1,
+            "mobile_number_regex": "",
+            "country_short": "PR",
+            "country_code": 1787,
+            "country_regex": "(0{0,3}1787[0-9]*)"
+        }
+    },
+    {
+        "pk": 234,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Puerto Rico",
+            "starting_number": 1,
+            "mobile_number_regex": "",
+            "country_short": "PR",
+            "country_code": 1939,
+            "country_regex": "(0{0,3}1939[0-9]*)"
+        }
+    },
+    {
+        "pk": 170,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Qatar",
+            "starting_number": 9,
+            "mobile_number_regex": "",
+            "country_short": "QA",
+            "country_code": 974,
+			"country_regex": "0{0,3}974[0-9]*"
+        }
+    },
+    {
+        "pk": 171,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "R\u00e9union",
+            "starting_number": 2,
+            "mobile_number_regex": "(0{0,3}26269[0-9]*|0{0,3}26220[0-9]*|0{0,3}26221[0-9]*|0{0,3}2623[0-9]*|0{0,3}26265[0-9]*|0{0,3}26266[0-9]*|0{0,3}26267[0-9]*|0{0,3}26268[0-9]*)",
+            "country_short": "RE",
+            "country_code": 262,
+			"country_regex": "0{0,3}262[0-9]*"
+        }
+    },
+    {
+        "pk": 172,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Romania",
+            "starting_number": 4,
+            "mobile_number_regex": "0{0,3}407[0-9]*",
+            "country_short": "RO",
+            "country_code": 40,
+			"country_regex": "0{0,3}40[0-9]*"
+        }
+    },
+    {
+        "pk": 173,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Russia",
+            "starting_number": 7,
+            "mobile_number_regex": "(0{0,3}7407[0-9]*|0{0,3}7810[0-9]*|0{0,3}79[0-9]*)",
+            "country_short": "RU",
+            "country_code": 7,
+			"country_regex": "0{0,3}7[0-9]*"
+        }
+    },
+    {
+        "pk": 174,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Rwanda",
+            "starting_number": 2,
+            "mobile_number_regex": "",
+            "country_short": "RW",
+            "country_code": 250,
+			"country_regex": "0{0,3}250[0-9]*"
+        }
+    },
+    {
+        "pk": 175,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Saint Helena",
+            "starting_number": 2,
+            "mobile_number_regex": "",
+            "country_short": "SH",
+            "country_code": 290,
+			"country_regex": "0{0,3}290[0-9]*"
+        }
+    },
+    {
+        "pk": 176,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Saint Kitts and Nevis",
+            "starting_number": 1,
+            "mobile_number_regex": "",
+            "country_short": "KN",
+            "country_code": 1869,
+			"country_regex": "0{0,3}1869[0-9]*"
+        }
+    },
+    {
+        "pk": 177,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Saint Lucia",
+            "starting_number": 1,
+            "mobile_number_regex": "",
+            "country_short": "LC",
+            "country_code": 1758,
+			"country_regex": "0{0,3}1758[0-9]*"
+        }
+    },
+    {
+        "pk": 178,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Saint Pierre and Miquelon",
+            "starting_number": 5,
+            "mobile_number_regex": "",
+            "country_short": "PM",
+            "country_code": 508,
+			"country_regex": "0{0,3}508[0-9]*"
+        }
+    },
+    {
+        "pk": 179,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Saint Vincent and Grenadines",
+            "starting_number": 1,
+            "mobile_number_regex": "",
+            "country_short": "VC",
+            "country_code": 1784,
+			"country_regex": "0{0,3}1784[0-9]*"
+        }
+    },
+    {
+        "pk": 180,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Samoa",
+            "starting_number": 6,
+            "mobile_number_regex": "",
+            "country_short": "WS",
+            "country_code": 685,
+			"country_regex": "0{0,3}685[0-9]*"
+        }
+    },
+    {
+        "pk": 181,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "San Marino",
+            "starting_number": 3,
+            "mobile_number_regex": "",
+            "country_short": "SM",
+            "country_code": 378,
+			"country_regex": "0{0,3}378[0-9]*"
+        }
+    },
+    {
+        "pk": 182,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
+            "starting_number": 2,
+            "mobile_number_regex": "",
+            "country_short": "ST",
+            "country_code": 239,
+			"country_regex": "0{0,3}239[0-9]*"
+        }
+    },
+    {
+        "pk": 183,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Saudi Arabia",
+            "starting_number": 9,
+            "mobile_number_regex": "",
+            "country_short": "SA",
+            "country_code": 966,
+			"country_regex": "0{0,3}966[0-9]*"
+        }
+    },
+    {
+        "pk": 184,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Senegal",
+            "starting_number": 2,
+            "mobile_number_regex": "",
+            "country_short": "SN",
+            "country_code": 221,
+			"country_regex": "0{0,3}221[0-9]*"
+        }
+    },
+    {
+        "pk": 185,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Serbia",
+            "starting_number": 3,
+            "mobile_number_regex": "0{0,3}3816[0-9]*",
+            "country_short": "RS",
+            "country_code": 381,
+			"country_regex": "0{0,3}381[0-9]*"
+        }
+    },
+    {
+        "pk": 186,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Seychelles",
+            "starting_number": 2,
+            "mobile_number_regex": "(0{0,3}24851[0-9]*|0{0,3}24852[0-9]*|0{0,3}24853[0-9]*|0{0,3}24854[0-9]*|0{0,3}24855[0-9]*|0{0,3}24856[0-9]*|0{0,3}24857[0-9]*|0{0,3}24858[0-9]*|0{0,3}24859[0-9]*|0{0,3}2487[0-9]*)",
+            "country_short": "SC",
+            "country_code": 248,
+			"country_regex": "0{0,3}248[0-9]*"
+        }
+    },
+    {
+        "pk": 187,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Sierra Leone",
+            "starting_number": 2,
+            "mobile_number_regex": "(0{0,3}23223[0-9]*|0{0,3}23230[0-9]*|0{0,3}23233[0-9]*|0{0,3}23235[0-9]*|0{0,3}23240[0-9]*|0{0,3}23250[0-9]*|0{0,3}23276[0-9]*|0{0,3}23277[0-9]*)",
+            "country_short": "SL",
+            "country_code": 232,
+			"country_regex": "0{0,3}232[0-9]*"
+        }
+    },
+    {
+        "pk": 188,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Singapore",
+            "starting_number": 6,
+            "mobile_number_regex": "(0{0,3}658[0-9]*|0{0,3}659[0-9]*)",
+            "country_short": "SG",
+            "country_code": 65,
+			"country_regex": "0{0,3}65[0-9]*"
+        }
+    },
+    {
+        "pk": 189,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Slovakia",
+            "starting_number": 4,
+            "mobile_number_regex": "0{0,3}4219[0-9]*",
+            "country_short": "SK",
+            "country_code": 421,
+			"country_regex": "0{0,3}421[0-9]*"
+        }
+    },
+    {
+        "pk": 190,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Slovenia",
+            "starting_number": 3,
+            "mobile_number_regex": "(0{0,3}38630[0-9]*|0{0,3}38631[0-9]*|0{0,3}38640[0-9]*|0{0,3}38641[0-9]*|0{0,3}38649[0-9]*|0{0,3}38651[0-9]*|0{0,3}38664[0-9]*|0{0,3}38665[0-9]*|0{0,3}38666[0-9]*|0{0,3}38667[0-9]*|0{0,3}38668[0-9]*|0{0,3}38669[0-9]*|0{0,3}38670[0-9]*|0{0,3}38671[0-9]*)",
+            "country_short": "SI",
+            "country_code": 386,
+			"country_regex": "0{0,3}386[0-9]*"
+        }
+    },
+    {
+        "pk": 191,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Solomon Islands",
+            "starting_number": 6,
+            "mobile_number_regex": "",
+            "country_short": "SB",
+            "country_code": 677,
+			"country_regex": "0{0,3}677[0-9]*"
+        }
+    },
+    {
+        "pk": 192,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Somalia",
+            "starting_number": 2,
+            "mobile_number_regex": "",
+            "country_short": "SO",
+            "country_code": 252,
+			"country_regex": "0{0,3}252[0-9]*"
+        }
+    },
+    {
+        "pk": 193,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "South Africa",
+            "starting_number": 2,
+            "mobile_number_regex": "(0{0,3}2772[0-9]*|0{0,3}2773[0-9]*|0{0,3}2774[0-9]*|0{0,3}2776[0-9]*|0{0,3}2778[0-9]*|0{0,3}2782[0-9]*|0{0,3}2783[0-9]*|0{0,3}2784[0-9]*)",
+            "country_short": "ZA",
+            "country_code": 27,
+			"country_regex": "0{0,3}27[0-9]*"
+        }
+    },
+    {
+        "pk": 194,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Spain",
+            "starting_number": 3,
+            "mobile_number_regex": "0{0,3}346[0-9]*",
+            "country_short": "ES",
+            "country_code": 34,
+			"country_regex": "0{0,3}34[0-9]*"
+        }
+    },
+    {
+        "pk": 195,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Sri Lanka",
+            "starting_number": 9,
+            "mobile_number_regex": "",
+            "country_short": "LK",
+            "country_code": 94,
+			"country_regex": "0{0,3}94[0-9]*"
+        }
+    },
+    {
+        "pk": 196,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Sudan",
+            "starting_number": 2,
+            "mobile_number_regex": "",
+            "country_short": "SD",
+            "country_code": 249,
+			"country_regex": "0{0,3}249[0-9]*"
+        }
+    },
+    {
+        "pk": 197,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Suriname",
+            "starting_number": 5,
+            "mobile_number_regex": "",
+            "country_short": "SR",
+            "country_code": 597,
+			"country_regex": "0{0,3}597[0-9]*"
+        }
+    },
+    {
+        "pk": 198,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Swaziland",
+            "starting_number": 2,
+            "mobile_number_regex": "0{0,3}2686[0-9]*",
+            "country_short": "SZ",
+            "country_code": 268,
+			"country_regex": "0{0,3}268[0-9]*"
+        }
+    },
+    {
+        "pk": 199,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Sweden",
+            "starting_number": 4,
+            "mobile_number_regex": "(0{0,3}4610[0-9]*|0{0,3}4670[0-9]*|0{0,3}4672[0-9]*|0{0,3}4673[0-9]*|0{0,3}4676[0-9]*)",
+            "country_short": "SE",
+            "country_code": 46,
+			"country_regex": "0{0,3}46[0-9]*"
+        }
+    },
+    {
+        "pk": 200,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Switzerland",
+            "starting_number": 4,
+            "mobile_number_regex": "(0{0,3}4176[0-9]*|0{0,3}4177[0-9]*|0{0,3}4178[0-9]*|0{0,3}4179[0-9]*)",
+            "country_short": "CH",
+            "country_code": 41,
+			"country_regex": "0{0,3}41[0-9]*"
+        }
+    },
+    {
+        "pk": 201,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Syria",
+            "starting_number": 9,
+            "mobile_number_regex": "",
+            "country_short": "SY",
+            "country_code": 963,
+			"country_regex": "0{0,3}963[0-9]*"
+        }
+    },
+    {
+        "pk": 202,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Taiwan",
+            "starting_number": 8,
+            "mobile_number_regex": "0{0,3}8669[0-9]*",
+            "country_short": "TW",
+            "country_code": 886,
+			"country_regex": "0{0,3}886[0-9]*"
+        }
+    },
+    {
+        "pk": 203,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Tajikistan",
+            "starting_number": 9,
+            "mobile_number_regex": "0{0,3}9929[0-9]*",
+            "country_short": "TJ",
+            "country_code": 992,
+			"country_regex": "0{0,3}992[0-9]*"
+        }
+    },
+    {
+        "pk": 204,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Tanzania",
+            "starting_number": 2,
+            "mobile_number_regex": "",
+            "country_short": "TZ",
+            "country_code": 255,
+			"country_regex": "0{0,3}255[0-9]*"
+        }
+    },
+    {
+        "pk": 205,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Thailand",
+            "starting_number": 6,
+            "mobile_number_regex": "0{0,3}668[0-9]*",
+            "country_short": "TH",
+            "country_code": 66,
+			"country_regex": "0{0,3}66[0-9]*"
+        }
+    },
+    {
+        "pk": 206,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Togo",
+            "starting_number": 2,
+            "mobile_number_regex": "",
+            "country_short": "TG",
+            "country_code": 228,
+			"country_regex": "0{0,3}228[0-9]*"
+        }
+    },
+    {
+        "pk": 207,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Tokelau",
+            "starting_number": 6,
+            "mobile_number_regex": "",
+            "country_short": "TK",
+            "country_code": 690,
+			"country_regex": "0{0,3}690[0-9]*"
+        }
+    },
+    {
+        "pk": 208,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Tonga",
+            "starting_number": 6,
+            "mobile_number_regex": "",
+            "country_short": "TO",
+            "country_code": 676,
+			"country_regex": "0{0,3}676[0-9]*"
+        }
+    },
+    {
+        "pk": 209,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Trinidad and Tobago",
+            "starting_number": 1,
+            "mobile_number_regex": "",
+            "country_short": "TT",
+            "country_code": 1868,
+			"country_regex": "0{0,3}1868[0-9]*"
+        }
+    },
+    {
+        "pk": 210,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Tunisia",
+            "starting_number": 2,
+            "mobile_number_regex": "",
+            "country_short": "TN",
+            "country_code": 216,
+			"country_regex": "0{0,3}216[0-9]*"
+        }
+    },
+    {
+        "pk": 211,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Turkey",
+            "starting_number": 9,
+            "mobile_number_regex": "0{0,3}905[0-9]*",
+            "country_short": "TR",
+            "country_code": 90,
+			"country_regex": "0{0,3}90[0-9]*"
+        }
+    },
+    {
+        "pk": 212,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Turkmenistan",
+            "starting_number": 9,
+            "mobile_number_regex": "",
+            "country_short": "TM",
+            "country_code": 993,
+			"country_regex": "0{0,3}993[0-9]*"
+        }
+    },
+    {
+        "pk": 213,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Turks and Caicos Islands",
+            "starting_number": 1,
+            "mobile_number_regex": "",
+            "country_short": "TC",
+            "country_code": 1649,
+			"country_regex": "0{0,3}1649[0-9]*"
+        }
+    },
+    {
+        "pk": 214,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Tuvalu",
+            "starting_number": 6,
+            "mobile_number_regex": "",
+            "country_short": "TV",
+            "country_code": 688,
+			"country_regex": "0{0,3}688[0-9]*"
+        }
+    },
+    {
+        "pk": 215,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Uganda",
+            "starting_number": 2,
+            "mobile_number_regex": "0{0,3}2567[0-9]*",
+            "country_short": "UG",
+            "country_code": 256,
+			"country_regex": "0{0,3}256[0-9]*"
+        }
+    },
+    {
+        "pk": 216,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Ukraine",
+            "starting_number": 3,
+            "mobile_number_regex": "",
+            "country_short": "UA",
+            "country_code": 380,
+			"country_regex": "0{0,3}380[0-9]*"
+        }
+    },
+    {
+        "pk": 217,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "United Arab Emirates",
+            "starting_number": 9,
+            "mobile_number_regex": "",
+            "country_short": "AE",
+            "country_code": 971,
+			"country_regex": "0{0,3}971[0-9]*"
+        }
+    },
+    {
+        "pk": 218,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "United Kingdom",
+            "starting_number": 4,
+            "mobile_number_regex": "(0{0,3}4475[0-9]*|0{0,3}4477[0-9]*|0{0,3}4478[0-9]*|0{0,3}4479[0-9]*|[0-9]*)",
+            "country_short": "GB",
+            "country_code": 44,
+			"country_regex": "0{0,3}44[0-9]*"
+        }
+    },
+    {
+        "pk": 219,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "United States",
+            "starting_number": 1,
+            "mobile_number_regex": "",
+            "country_short": "US",
+            "country_code": 1,
+			"country_regex": "0{0,3}1[0-9]*"
+        }
+    },
+    {
+        "pk": 220,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Uruguay",
+            "starting_number": 5,
+            "mobile_number_regex": "0{0,3}5989[0-9]*",
+            "country_short": "UY",
+            "country_code": 598,
+			"country_regex": "0{0,3}598[0-9]*"
+        }
+    },
+    {
+        "pk": 221,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "US Virgin Islands",
+            "starting_number": 1,
+            "mobile_number_regex": "",
+            "country_short": "VI",
+            "country_code": 1340,
+			"country_regex": "0{0,3}1340[0-9]*"
+        }
+    },
+    {
+        "pk": 222,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Uzbekistan",
+            "starting_number": 9,
+            "mobile_number_regex": "",
+            "country_short": "UZ",
+            "country_code": 998,
+			"country_regex": "0{0,3}998[0-9]*"
+        }
+    },
+    {
+        "pk": 223,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Vanuatu",
+            "starting_number": 6,
+            "mobile_number_regex": "",
+            "country_short": "VU",
+            "country_code": 678,
+			"country_regex": "0{0,3}678[0-9]*"
+        }
+    },
+    {
+        "pk": 224,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Venezuela",
+            "starting_number": 5,
+            "mobile_number_regex": "(0{0,3}58412[0-9]*|0{0,3}58414[0-9]*|0{0,3}58415[0-9]*|0{0,3}58416[0-9]*|0{0,3}58417[0-9]*|0{0,3}58418[0-9]*)",
+            "country_short": "VE",
+            "country_code": 58,
+			"country_regex": "0{0,3}58[0-9]*"
+        }
+    },
+    {
+        "pk": 225,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Vietnam",
+            "starting_number": 8,
+            "mobile_number_regex": "",
+            "country_short": "VN",
+            "country_code": 84,
+			"country_regex": "0{0,3}84[0-9]*"
+        }
+    },
+    {
+        "pk": 226,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Virgin Islands",
+            "starting_number": 1,
+            "mobile_number_regex": "",
+            "country_short": "VG",
+            "country_code": 1284,
+			"country_regex": "0{0,3}1284[0-9]*"
+        }
+    },
+    {
+        "pk": 227,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Wake Island",
+            "starting_number": 8,
+            "mobile_number_regex": "",
+            "country_short": "WK",
+            "country_code": 808,
+			"country_regex": "0{0,3}808[0-9]*"
+        }
+    },
+    {
+        "pk": 228,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Wallis and Futuna",
+            "starting_number": 6,
+            "mobile_number_regex": "",
+            "country_short": "WF",
+            "country_code": 681,
+			"country_regex": "0{0,3}681[0-9]*"
+        }
+    },
+    {
+        "pk": 229,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Yemen",
+            "starting_number": 9,
+            "mobile_number_regex": "",
+            "country_short": "YE",
+            "country_code": 967,
+			"country_regex": "0{0,3}967[0-9]*"
+        }
+    },
+    {
+        "pk": 230,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Zambia",
+            "starting_number": 2,
+            "mobile_number_regex": "0{0,3}2609[0-9]*",
+            "country_short": "ZM",
+            "country_code": 260,
+			"country_regex": "0{0,3}260[0-9]*"
+        }
+    },
+    {
+        "pk": 231,
+        "model": "phoneconfirmation.phonecountrycode",
+        "fields": {
+            "country_name": "Zimbabwe",
+            "starting_number": 2,
+            "mobile_number_regex": "(0{0,3}26311[0-9]*|0{0,3}26323[0-9]*|0{0,3}26391[0-9]*)",
+            "country_short": "ZW",
+            "country_code": 263,
+			"country_regex": "0{0,3}263[0-9]*"
+        }
+    }
+]

@@ -1,0 +1,4 @@
+[run]
+source = phoneconfirmation
+omit = phoneconfirmation/tests/*
+branch = 1

@@ -1,0 +1,1 @@
+{% load i18n %}{% autoescape off %}{% blocktrans with current_site.name as site_name and current_site.domain as site_domain %}Click {{ url }} to confirm your number.{% endblocktrans %}{% endautoescape %}
