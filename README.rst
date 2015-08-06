@@ -1,5 +1,7 @@
 phoneconfirmation
 ========================
+.. image:: http://slack.pinaxproject.com/badge.svg
+   :target: http://slack.pinaxproject.com/
 
 .. image:: https://img.shields.io/travis/pinax/pinax-phone-confirmation.svg
     :target: https://travis-ci.org/pinax/pinax-phone-confirmation
