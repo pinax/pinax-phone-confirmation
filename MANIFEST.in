@@ -1,5 +1,4 @@
 include AUTHORS
 include LICENSE
-include README.rst
-recursive-include phoneconfirmation/static *
+include README.md
 recursive-include phoneconfirmation/templates *

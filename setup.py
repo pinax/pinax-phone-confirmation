@@ -15,9 +15,9 @@ setup(
     author_email="",
     description="",
     name="pinax-phone-confirmation",
-    long_description=read("README.rst"),
+    long_description=read("README.md"),
     version=__import__("phoneconfirmation").__version__,
-    url="http://pinax-phone-confirmation.rtfd.org/",
+    url="http://github.com/pinax/pinax-phone-confirmation/",
     license="MIT",
     packages=find_packages(),
     tests_require=[
