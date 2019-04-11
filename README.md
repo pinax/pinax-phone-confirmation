@@ -67,6 +67,7 @@ Add `phoneconfirmation` to your `INSTALLED_APPS` setting:
 
 * Initial release
 
+
 ## Contribute
 
 For an overview on how contributing to Pinax works read this [blog post](http://blog.pinaxproject.com/2016/02/26/recap-february-pinax-hangout/)
