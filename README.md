@@ -58,6 +58,13 @@ Add `phoneconfirmation` to your `INSTALLED_APPS` setting:
 
 ## Change Log
 
+### 0.2
+
+* Move documentation into README, update LICENSE, .gitignore, MANIFEST.in
+
+### 0.1
+
+* Initial release
 
 ## Contribute
 
