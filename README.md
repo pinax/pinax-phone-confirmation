@@ -60,7 +60,8 @@ Add `phoneconfirmation` to your `INSTALLED_APPS` setting:
 
 ### 0.2
 
-* Move documentation into README, update LICENSE, .gitignore, MANIFEST.in
+* Move documentation into README
+* Update LICENSE, .gitignore, MANIFEST.in, Makefile, setup.py
 
 ### 0.1
 
